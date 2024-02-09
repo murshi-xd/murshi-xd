@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murshi-xd
-- 👀 I’m pursuing Computer science and engineering from P.A College of Engineering,manglore,india
-- 🌱 I’m currently a pre-final year engineering student
+- 👀 I’m pursuing MSc in Applied data science from University of central lancashire,England
+- 🌱 I’m currently a pre-final year student
 - 💞️ I’m looking to collaborate on data Science projects 
 - 📫 contact me on https://www.linkedin.com/in/murshidpp/
 
