@@ -1,9 +1,9 @@
 <img src="Banner2.jpeg" alt="GitHub Banner" width="100%" />
 
-# Hey there!, I'm Murshi 👋🏼:
+# Hey there! I'm Murshi 👋🏼
 🚀 **Freelance dev on a mission to build machines that think with your data.**  
 🛠️ Currently cooking up **AutoML Studio** – no-code EDA & ML pipelines, zero hassle.  
-📚 Started with A-Levels and curiosity in 2019 — now mastered data science and still building.  
+📚 It started in 2019, a curious mind in motion — now mastering data, driven by devotion.
 📊 Fuelled by data, driven to create smart systems that solve real problems.
 
 <div align="center">
