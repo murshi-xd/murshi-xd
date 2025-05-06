@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="GitHub Banner" width="100%" />
+<img src="Banner2.jpeg" alt="GitHub Banner" width="100%" />
 
 # Hey there!, I'm Murshi 👋🏼:
 🚀 **Freelance dev on a mission to build machines that think with your data.**  
