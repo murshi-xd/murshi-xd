@@ -1,10 +1,10 @@
 <img src="Banner2.jpeg" alt="GitHub Banner" width="100%" />
 
 # Hey there! I'm Murshi 👋🏼
-🚀 **Freelance dev on a mission to build machines that think with your data.**  
-🛠️ Currently cooking up **AutoML Studio** – no-code EDA & ML pipelines, zero hassle.  
-📚 It started in 2019, a curious mind in motion — now mastering data, driven by devotion.
-📊 Fuelled by data, driven to create smart systems that solve real problems.
+🚀 **Freelance dev on a mission to build machines that think with your data.**<br>
+🛠️ Currently cooking up **AutoML Studio** – no-code EDA & ML pipelines, zero hassle.<br>
+📚 It started in 2019, a curious mind in motion — now mastering data, driven by devotion.<br>
+📊 Fuelled by data, driven to create smart systems that solve real problems.<br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/murshidpp/" target="_blank">
