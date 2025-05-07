@@ -24,10 +24,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murshi-xd/murshi-xd/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/murshi-xd/murshi-xd/output/github-snake.svg" />
 </picture>
-
-
-![Total Commits](https://img.shields.io/badge/total_commits-401-brightgreen)
-![Longest Streak](https://img.shields.io/badge/longest_streak-4_days-blue)
-![Current Streak](https://img.shields.io/badge/current_streak-4_days-blue)
-![Night Owl](https://img.shields.io/badge/night_owl-28.7%25-purple)
-![Weekend Warrior](https://img.shields.io/badge/weekend_warrior-12.5%25-orange)
