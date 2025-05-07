@@ -24,10 +24,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murshi-xd/murshi-xd/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/murshi-xd/murshi-xd/output/github-snake.svg" />
 </picture>
-
-**1. 🥇 First Commit**
-**2. 💯 100th Commit**
-**3. 🏖️ Weekend Warrior (10 weekend commits)**
-**4. 🌅 Weekend Master (50 weekend commits)**
-**5. 🦉 Night Owl (10+ night commits)**
-**6. 🦇 Code Vampire (50+ night commits)**
